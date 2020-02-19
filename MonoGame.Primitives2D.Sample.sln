@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame.Primitives2D.Sample", "MonoGame.Primitives2D.Sample\MonoGame.Primitives2D.Sample.csproj", "{6117281B-E4FB-419C-A24C-CC4B91517C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6117281B-E4FB-419C-A24C-CC4B91517C02}.Debug|x86.ActiveCfg = Debug|x86
+		{6117281B-E4FB-419C-A24C-CC4B91517C02}.Debug|x86.Build.0 = Debug|x86
+		{6117281B-E4FB-419C-A24C-CC4B91517C02}.Release|x86.ActiveCfg = Release|x86
+		{6117281B-E4FB-419C-A24C-CC4B91517C02}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {126D18C5-9234-4772-B2B5-1AE1AEB5C5FE}
+	EndGlobalSection
+EndGlobal
